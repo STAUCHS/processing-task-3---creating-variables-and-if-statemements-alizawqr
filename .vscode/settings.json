@@ -1,0 +1,6 @@
+{
+    "java.project.referencedLibraries": [
+        "lib/**/*.jar",
+        "/Users/waqara4373/Documents/5-1--processing-intro-alizawqr/lib/core.jar"
+    ]
+}
