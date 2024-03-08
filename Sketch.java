@@ -39,10 +39,11 @@ public class Sketch extends PApplet {
 
     }
     else if (randomX > 250 || randomY > 250){
+
       // Light
       stroke(125);
       strokeWeight(3);
-      fill(252, 239, 154);
+      fill(255, 252, 252);
       ellipse(randomX, randomY, 120, 120);
 
       // Shade
